@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/SasiDeepikaVasantha/Problems/tree/master/1675-magnetic-force-between-two-balls) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SasiDeepikaVasantha/Problems/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SasiDeepikaVasantha/Problems/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SasiDeepikaVasantha/Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
